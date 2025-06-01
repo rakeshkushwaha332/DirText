@@ -9,7 +9,7 @@
 - Simple and fast—ideal for devs, students, sysadmins, or anyone organizing files
 - No external dependencies
 
-## 🚀 Getting Started
+##+ 🚀 Getting Started
 
 ### Clone the repository
 
